@@ -1,4 +1,5 @@
 # matrix-library
+|pypi version| |Build status| |Gitter Badge| |Zenodo Badge|
 Library for implementation of mathematical matrices in Python.
 
 ## Getting Started
