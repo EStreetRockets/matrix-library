@@ -1,48 +1,17 @@
 # matrix-library
-|pypi version| |Build status| |Gitter Badge| |Zenodo Badge|
-
-.. |pypi version| image:: https://img.shields.io/pypi/v/sympy.svg
-   :target: https://pypi.python.org/pypi/sympy
-.. |Build status| image:: https://secure.travis-ci.org/sympy/sympy.svg?branch=master
-   :target: http://travis-ci.org/sympy/sympy
-.. |Gitter Badge| image:: https://badges.gitter.im/Join%20Chat.svg
-   :alt: Join the chat at https://gitter.im/sympy/sympy
-   :target: https://gitter.im/sympy/sympy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-.. |Zenodo Badge| image:: https://zenodo.org/badge/18918/sympy/sympy.svg
-   :target: https://zenodo.org/badge/latestdoi/18918/sympy/sympy
-
 
 Library for implementation of mathematical matrices in Python.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python 3.x
 
-```
-Give examples
-```
 
-### Installing
+### Installing and Getting Started
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+#### Windows
+Move files to wherever your Python libraries are located.
+Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
 ## Running the tests
 
