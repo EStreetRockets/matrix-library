@@ -21,9 +21,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **gaussian-dev (Eli Brennan)**
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+**gaussian-dev (Eli Brennan)**
 
 ## License
 
