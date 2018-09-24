@@ -11,7 +11,7 @@ Python 3.x
 
 #### Windows
 Move files to wherever your Python libraries are located.<br />
-Default path is: C:\Users\your_user_name\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
+Default path: C:\Users\your_user_name\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
