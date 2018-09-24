@@ -29,4 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you to the Wikipedia math articles
+Thank you to the Wikipedia math articles. All the math is from there.
