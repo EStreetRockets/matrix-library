@@ -10,8 +10,8 @@ Python 3.x
 ### Installing and Getting Started
 
 #### Windows
-Move files to wherever your Python libraries are located.
-\n Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
+Move files to wherever your Python libraries are located.__
+Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
 ## Running the tests
 
