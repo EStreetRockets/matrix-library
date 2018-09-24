@@ -11,7 +11,7 @@ Python 3.x
 
 #### Windows
 Move files to wherever your Python libraries are located.
-Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
+\n Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
 ## Running the tests
 
