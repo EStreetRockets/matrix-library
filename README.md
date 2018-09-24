@@ -11,39 +11,7 @@ Python 3.x
 
 #### Windows
 Move files to wherever your Python libraries are located.<br />
-Ex. : C:\Users\ct_sk\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
+Default path is: C:\Users\your_user_name\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
