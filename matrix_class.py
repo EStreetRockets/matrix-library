@@ -130,15 +130,15 @@ class matrix(object):
         else:
             return matrix([[(int(self[i][j]*1e16) * int(b[i][j]*1e16))/1e32 for j in range(self.columns)] for i in range(self.rows)])
 
-    def dot(self, c):
+    def product(self, c):
         """
-        Returns the dot product of two matrices.
+        Returns the matrix product of two matrices.
         Also known as Matrix Multiplication
-        Wikipedia article: https://en.wikipedia.org/wiki/Dot_product#Algebraic_definition
+        Wikipedia article: https://en.wikipedia.org/wiki/Matrix_multiplication
         Uses rounding to get more accurate results
         """
         if type(c).__name__ != 'matrix':
-            TypeError("unsupported operand type(s) for matrix.dot: 'matrix' and "+"'"+str(type(c).__name__)+"'")
+            TypeError("unsupported operand type(s) for matrix.product: 'matrix' and "+"'"+str(type(c).__name__)+"'")
         
         if self.dim[1] != c.dim[0]:
             # Must operate on matrices of the same size
