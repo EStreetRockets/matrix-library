@@ -81,7 +81,7 @@ def matrix_solve(expressions, equals, variables):
     for a in equals:
         equalsMatrix.append([a])
     equalsMatrix = matrix(equalsMatrix)
-    solutions = matrixForm.inv().dot(equalsMatrix)
+    solutions = matrixForm.inv().product(equalsMatrix)
     final = []
     for sol in solutions:
         final.append(sol[0])
