@@ -11,7 +11,7 @@ Python 3.x
 
 Move files to wherever your Python libraries are located.<br />
 Default paths for operating systems:<br />
-- Windows: C:\Users\your_user_name\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\<br />
+- Windows: C:\Users\your_user_name\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\ <br />
 - Linux: /usr/lib/python3/dist-packages<br />
 - Mac: /Library/Python/3.x/site-packages/<br />
 
